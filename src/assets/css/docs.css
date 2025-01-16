@@ -480,7 +480,9 @@ textarea.docs-search-bar-input.goog-textarea,
 .docs-chat-title-message>h2,
 .docs-chat-status,
 .kix-citations-search-result-attribute-label,
-.hiddenFeaturesBubbleBody
+.hiddenFeaturesBubbleBody,
+.docos-comments-pe .docos-anchoredreplyview-origin,
+.docos-comments-pe .docos-anchoreddocoview .docos-input-acl-fixer-message, .docos-comments-pe .docos-anchoreddocoview .docos-input-assignment-message, .docos-comments-pe .docos-anchoreddocoview .docos-input-at-reply-message, .docos-comments-pe .docos-anchoreddocoview .docos-input-static-message
 {
   color: var(--tertiary-text-color);
 }
@@ -1305,7 +1307,8 @@ textarea.docs-search-bar-input.goog-textarea,
 .document-margin-floating-control-bubble.docs-bubble.document-margin-floating-control-grouped,
 .docs-bubble.docs-toc-menu-bubble,
 .docs-material .docs-presence-plus-collab-widget-color-block, .docs-material.docs-presence-plus-widget-overflow-menu .docs-presence-plus-collab-widget-color-block,
-.kix-header-footer-bubble.docs-bubble
+.kix-header-footer-bubble.docs-bubble,
+.docos-anchoredreplyview-origin
 {
   border-color: var(--primary-border-color);
 }
