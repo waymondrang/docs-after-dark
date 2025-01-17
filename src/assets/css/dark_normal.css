@@ -61,11 +61,11 @@
   filter: invert(1) brightness(0.6);
 }
 
+/* GRAYSCALE TO TAKE AWAY COLOR */
 .docs-grille-gm3 .docs-material .docs-icon-img, .docs-icons-cleanup .docs-material .docs-icon-img,
 .docs-grille-gm3 .docs-material .docs-icon-img:before,
 .docs-gm .docs-material.goog-menu .goog-menuitem.goog-option-selected .goog-menuitem-checkbox
 {
-  /* GRAYSCALE TO TAKE AWAY COLOR */
   filter: brightness(2.6) grayscale(1);
 }
 

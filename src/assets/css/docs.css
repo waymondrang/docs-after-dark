@@ -341,7 +341,9 @@ textarea.docs-search-bar-input.goog-textarea,
 .kix-citations-search-input,
 .kix-citations-search-result-attribute-value,
 .chapters-in-cslv .docs-grille-version-history .docs-revisions-authorwidget-hat,
-.docs-grille-gm3 .docs-chat-message-tooltip-content
+.docs-grille-gm3 .docs-chat-message-tooltip-content,
+.docs-material #docs-script-button-bar .jfk-button.jfk-button-hover,
+.docs-material #docs-script-button-bar .jfk-button:focus
 {
   color: var(--primary-text-color);
 }
@@ -516,7 +518,8 @@ button:disabled,
 .docs-grille-gm3.docos.docs-gm .jfk-button.jfk-button-action.jfk-button-disabled,
 .mdc-select.mdc-select--disabled .mdc-select__selected-text,
 .smart-canvas-date-details-bubble-time-disabled .smart-canvas-date-details-bubble-time-zone-edit-field, .smart-canvas-date-details-bubble-time-disabled .smart-canvas-time-selection-combo-box-container .goog-combo-button-input, .smart-canvas-date-details-bubble-time-zone-edit-field.smart-canvas-date-details-bubble-time-zone-edit-field-disabled,
-.docs-material-button-fill-primary.docs-material-button-disabled
+.docs-material-button-fill-primary.docs-material-button-disabled,
+.docs-material #docs-script-button-bar .jfk-button
 {
   color: var(--disabled-text);
 }
@@ -873,7 +876,8 @@ div[style="background: #F0F6FF; border: 1px solid black; margin-top: 35px; paddi
 .kix-citations-create-view-input,
 .docs-chat-title-bar,
 .docs-grille-gm3 .docs-chat-message-tooltip-container,
-.kix-header-footer-bubble.docs-bubble
+.kix-header-footer-bubble.docs-bubble,
+.docs-material #docs-script-button-bar .jfk-button
 {
   background: var(--primary-background-color);
 }
@@ -955,7 +959,8 @@ div[style="background: #F0F6FF; border: 1px solid black; margin-top: 35px; paddi
 .goog-toolbar.kix-citations-source-list-item-toolbar .goog-toolbar-button-hover:not(.goog-toolbar-menu-button-open), .goog-toolbar.kix-citations-source-list-item-toolbar .goog-toolbar-menu-button-hover:not(.goog-toolbar-menu-button-open),
 .kix-citations-bibliography-bubble .kix-citations-bibliography-bubble-option-close:active, .kix-citations-bibliography-bubble .kix-citations-bibliography-bubble-option-close:focus, .kix-citations-bibliography-bubble .kix-citations-bibliography-bubble-option-close:hover, .kix-citations-bibliography-bubble .kix-citations-bibliography-bubble-option-help:active, .kix-citations-bibliography-bubble .kix-citations-bibliography-bubble-option-help:focus, .kix-citations-bibliography-bubble .kix-citations-bibliography-bubble-option-help:hover, .kix-citations-bibliography-bubble.kix-citations-bibliography-bubble-feedback-enabled .kix-citations-bibliography-bubble-option-feedback:active, .kix-citations-bibliography-bubble.kix-citations-bibliography-bubble-feedback-enabled .kix-citations-bibliography-bubble-option-feedback:focus, .kix-citations-bibliography-bubble.kix-citations-bibliography-bubble-feedback-enabled .kix-citations-bibliography-bubble-option-feedback:hover,
 .kix-header-footer-bubble .kix-header-footer-bubble-menu-button.goog-flat-menu-button.goog-flat-menu-button-focused, .kix-header-footer-bubble .kix-header-footer-bubble-menu-button.goog-flat-menu-button.goog-flat-menu-button-hover, .kix-header-footer-bubble .kix-header-footer-bubble-menu-button.goog-flat-menu-button.goog-flat-menu-button-open,
-.miniChapterSwitcherChapterList.goog-menu.goog-menu-vertical.miniChapterSwitcherChapterListViewContainer .goog-menuitem.goog-menuitem-highlight
+.miniChapterSwitcherChapterList.goog-menu.goog-menu-vertical.miniChapterSwitcherChapterListViewContainer .goog-menuitem.goog-menuitem-highlight,
+.docs-material #docs-script-button-bar .jfk-button.jfk-button-hover
 {
   background: var(--hover-background-color);
 }
@@ -1628,7 +1633,8 @@ div.docs-material-gm-checkbox-focused, span.docs-material-gm-checkbox-focused,
 .docs-gm .docs-toolbar-more-bubble,
 .goog-toolbar.kix-citations-source-list-item-toolbar,
 .miniChapterSwitcherChapterList.goog-menu.goog-menu-vertical.miniChapterSwitcherChapterListViewContainer,
-.docs-grille-gm3 .docs-chat-message-tooltip-container
+.docs-grille-gm3 .docs-chat-message-tooltip-container,
+.docs-material #docs-script-button-bar .jfk-button.jfk-button-hover
 {
   box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.20);
 }
@@ -1713,7 +1719,8 @@ svg.kix-configure-dropdown-button-add-icon,
 .apps-shortcutshelppopup,
 .apps-shortcutshelpcontentimpl-ac-renderer,
 .docs-palette,
-.kix-documentmetrics-widget
+.kix-documentmetrics-widget,
+.docs-material #docs-script-button-bar .jfk-button
 {
   border-radius: 8px;
 }
